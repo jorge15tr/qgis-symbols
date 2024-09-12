@@ -1,6 +1,6 @@
     <symbol name="" force_rhr="0" type="marker" alpha="1" tags="poste, luz, icono">
-      <layer pass="0" enabled="1" class="SvgMarker" locked="0">
-        <prop v="https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/iconos/poste_luz.svg" k="name"/>
+      <layer pass="0" enabled="1" class="concretoelectrico" locked="0">
+        <prop v="https://github.com/jorge15tr/qgis-symbols/blob/652f35703513639e62598058a428a4b300c94693/concretoelectrico.svg" k="name"/>
         <prop v="0" k="angle"/>
         <prop v="5" k="size"/>
         <prop v="MM" k="size_unit"/>
